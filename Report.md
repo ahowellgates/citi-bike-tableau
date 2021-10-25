@@ -65,11 +65,7 @@
 
 - The average trip durations above, by age, also signify the higher average of ride durations with the age group of 1969.
     - This demographic also includes the highest number of trips of the short-term customers.
-<hr>
 
-<h2><i>Stations Map</i><h2>
-<hr>
-<hr>
 
 <h3>Top Station: 519 -  Pershing Square North</h3>
 <div style="text-align:center">
